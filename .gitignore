@@ -1,0 +1,13 @@
+# JMeter results and reports
+results/
+*.jtl
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
